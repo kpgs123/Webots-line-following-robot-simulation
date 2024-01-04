@@ -2,7 +2,7 @@
 Webots line following simulation using epuck robot and it's 3 infrared distance sensors mounted on ground plate of the robot.
 Used python robot controller for this.
 
-Any one can add new tracks if needed by changing "RectangleArena->flooarAppearance-PBRAppearance->BaseColorMap-ImageTexture->url" picture.
+Any one can add new tracks if needed by changing "RectangleArena->floorAppearance-PBRAppearance->BaseColorMap-ImageTexture->url" picture.
 
 ![Screenshot from 2024-01-04 14-35-44](https://github.com/kpgs123/Webots-line-following-robot-simulation/assets/56798215/5419e40c-ebee-471d-a9b6-ccba2946b3ff)
 
