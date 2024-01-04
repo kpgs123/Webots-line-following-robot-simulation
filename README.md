@@ -1,4 +1,4 @@
-[Track_2.webm](https://github.com/kpgs123/Webots-line-following-robot-simulation/assets/56798215/d2535c1f-7fd5-484e-83af-570314bbbf22)# Webots-line-following-robot-simulation
+# Webots-line-following-robot-simulation
 Webots line following simulation using epuck robot and it's 3 infrared distance sensors mounted on ground plate of the robot.
 Used python robot controller for this.
 
