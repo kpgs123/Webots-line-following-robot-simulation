@@ -33,8 +33,26 @@ Controller logic -
 <br>
 
 Track 1 -
-https://github.com/kpgs123/Webots-line-following-robot-simulation/assets/56798215/4c27b21b-d0e8-4863-8cb3-21c82e55b3f5
+<br>
+
+
+https://github.com/kpgs123/Webots-line-following-robot-simulation/assets/56798215/acec9936-f78e-4fe2-b31a-3119cacae345
+
+
+<br><br>
 Track 2 - 
-https://github.com/kpgs123/Webots-line-following-robot-simulation/assets/56798215/ffd5fee7-1a15-4987-aee4-025c39a3b5b1
-Track 3 -
-https://github.com/kpgs123/Webots-line-following-robot-simulation/assets/56798215/74f5ed67-ec3a-4ff4-a4ed-923f8cc5fec7
+<br>
+
+https://github.com/kpgs123/Webots-line-following-robot-simulation/assets/56798215/6b6a5121-b080-4704-af90-4917587ea516
+
+
+
+<br><br>
+Track 3 - 
+<br>
+
+
+https://github.com/kpgs123/Webots-line-following-robot-simulation/assets/56798215/4b5d685c-1296-4010-98f8-a62348ea577c
+
+
+<br><br>
